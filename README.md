@@ -43,13 +43,13 @@ npm start
 ### With curl
 
 ```
-curl "http://127.0.0.1:3000?city=Yangon"
+curl "http://127.0.0.1:3000?city=barueri"
 ```
 
 ### With Postman
 
 ```
-call "http://127.0.0.1:3000?city=Yangon" with get method
+call "http://127.0.0.1:3000?city=barueri" with get method
 ```
 
 For More information about this project, visit the [Weather API Roadmap](https://roadmap.sh/projects/weather-api-wrapper-service)
