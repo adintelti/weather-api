@@ -69,7 +69,7 @@ cd weather-api-dotnet9
    ```bash
     dotnet run
 
-3. Application will open at the default broweser at the following address [http://localhost:5142](https://localhost:7166/scalar/v1) with Scalar web api documentation page, it can also be changed to swagger by changing the value UseScalar in the appsettings file.
+3. Application will open at the default browser at the following address [http://localhost:5142](https://localhost:7166/scalar/v1) with Scalar web api documentation page, it can also be changed to swagger by changing the value UseScalar in the appsettings file, if it doesn't open automatically you can type this address in the browser and scalar documentation should show up: https://localhost:7166/scalar/v1.
 
 ## Usage
 
