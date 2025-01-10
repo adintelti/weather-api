@@ -21,6 +21,7 @@ git clone https://github.com/thweookhine/Weather-API.git
 cd Weather-API
 cd weather-api-node
 ```
+# NodeJs Express version
 
 ### 2. Install Packages
 
@@ -57,10 +58,10 @@ call "http://127.0.0.1:3000?city=barueri" with get method
 
 # .NET 9 version
 
-1.1 Navigate to the project Directory:
+1. Navigate to the project Directory:
    ```bash
-cd Weather-API
-cd weather-api-dotnet9
+   cd Weather-API
+   cd weather-api-dotnet9
     ```
 
 2. Restore dependencies:
