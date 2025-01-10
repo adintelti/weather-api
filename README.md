@@ -58,8 +58,10 @@ call "http://127.0.0.1:3000?city=barueri" with get method
 # .NET 9 version
 
 1.1 Navigate to the project Directory:
+   ```bash
 cd Weather-API
 cd weather-api-dotnet9
+    ```
 
 2. Restore dependencies:
    ```bash
